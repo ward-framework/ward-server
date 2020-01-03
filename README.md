@@ -15,9 +15,9 @@
     <br />
     <!--<a href="https://ColinEspinas.github.io/ward/public/">View Demo</a>
     ·-->
-    <a href="https://github.com/colinespinas/ward/issues">Report Bug</a>
+    <a href="https://github.com/colinespinas/ward-server/issues">Report Bug</a>
     ·
-    <a href="https://github.com/colinespinas/ward/issues">Request Feature</a>
+    <a href="https://github.com/colinespinas/ward-server/issues">Request Feature</a>
     <br />
     <br />
     <a href="https://github.com/colinespinas/ward-server/graphs/contributors">
