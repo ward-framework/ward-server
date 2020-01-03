@@ -1,0 +1,16 @@
+{
+  "name": "ward-server",
+  "version": "1.0.0",
+  "description": "A basic server for Ward",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "author": "Colin Espinas",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
+  }
+}
