@@ -7,7 +7,14 @@
     "serve": "node index.js"
   },
   "author": "Colin Espinas",
-  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/colinespinas/ward-server.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/colinespinas/ward-server/issues"
+  },
+  "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
     "connect": "^3.7.0",
