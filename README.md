@@ -69,8 +69,6 @@ A basic server using [connect](https://github.com/senchalabs/connect) and [serve
 <!-- GETTING STARTED -->
 ## Getting Started
 
-See how to get your Ward server up and ready.
-
 ### Prerequisites
 
 * [Node.js](https://nodejs.org)
@@ -107,7 +105,7 @@ yarn add
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Here is how to get your server running
+Get your server running in 3 steps
 ```javascript
 // Include the package
 const Server = require('ward-server');
