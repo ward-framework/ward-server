@@ -108,7 +108,7 @@ const Server = require('ward-server');
 
 // Create a Server instance
 const server = new Server({
-  path : "./src", // Path to your ward project directory
+  path : "/src", // Path to your ward project directory
 });
 
 // Serve files
