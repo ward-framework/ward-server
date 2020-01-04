@@ -73,18 +73,20 @@ See how to get your Ward server up and ready.
 
 ### Prerequisites
 
-You will need npm or any other node package manager
-* npm
-```sh
-npm install npm@latest -g
-```
+* [Node.js](https://nodejs.org)
+* [npm](https://www.npmjs.com) or [Yarn](https://yarnpkg.com) (or any package manager)
+
 
 ### Installation
 
 #### Method 1 (package manager):
-1. Install with npm
+1. Install ward-server
 ```sh
+# npm
 npm install ward-server
+
+# Yarn
+yarn add ward-server
 ```
 
 #### Method 2 (git clone):
@@ -92,9 +94,13 @@ npm install ward-server
 ```sh
 git clone https://github.com/ColinEspinas/ward-server.git
 ```
-2. Install dependencies with npm
+2. Install dependencies
 ```sh
+# npm
 npm install
+
+# Yarn
+yarn add
 ```
 
 
