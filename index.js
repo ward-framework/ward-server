@@ -35,9 +35,10 @@ function Server(options) {
 		
 		// Listen to port and ip
 		app.listen(options.port, options.ip, function(){
-			if (!silent) 
+			if (!options.silent) 
 				console.log(chalk.blue.bold('Ward') + ' is running at ' + chalk.green.underline(`http://${options.ip}:${options.port}`));
-			callback();
+			if (callback) 
+				callback();
 		});
 	}
 }
