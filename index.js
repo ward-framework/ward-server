@@ -6,7 +6,7 @@ function Server(options) {
 
 	// Get options from params and fill defaults
 	options = Object.assign({
-		path : '/', // Ward project path
+		path : __dirname, // Ward project path
 		port : 8000, // Server port
 		ip : '127.0.0.1', // Server ip
 	}, options);
