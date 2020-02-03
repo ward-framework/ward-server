@@ -9,10 +9,10 @@
   "author": "Colin Espinas",
   "repository": {
     "type": "git",
-    "url": "https://github.com/colinespinas/ward-server.git"
+    "url": "https://github.com/ward-framework/ward-server.git"
   },
   "bugs": {
-    "url": "https://github.com/colinespinas/ward-server/issues"
+    "url": "https://github.com/ward-framework/ward-server/issues"
   },
   "license": "MIT",
   "dependencies": {
